@@ -113,7 +113,7 @@
 - 어떤 정점 v에 인접한 모든 노드 찾기: O(N)
 - 어떤 간선 (u, v)가 존재하는지 검사: O(1)
 
-#### 1. 인접 행렬(Adjacency Matrix)
+#### 2. 인접 리스트(Adjacency List)
 리스트로 그래프의 연결 관계를 표현하는 방식
 
 <img src="./img/list.png" width="330" height="244" />   
